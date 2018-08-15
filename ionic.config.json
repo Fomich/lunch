@@ -1,0 +1,8 @@
+{
+  "name": "simicon_lunch",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "45ec8a9d"
+}
